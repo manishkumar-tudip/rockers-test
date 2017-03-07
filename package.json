@@ -1,0 +1,21 @@
+{
+  "name": "rockers-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "debug": "^2.6.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.0",
+    "lodash": "^4.17.4",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.8"
+  }
+}
